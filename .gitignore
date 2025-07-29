@@ -1,0 +1,22 @@
+# Compilados
+bin/
+obj/
+
+# Configurações de IDEs
+.vscode/
+*.user
+*.suo
+
+# Arquivos de log ou temporários
+*.log
+*.tmp
+
+# Build do Visual Studio
+*.vspscc
+*.vssscc
+.vs/
+
+# Outros arquivos desnecessários
+*.db
+*.DS_Store
+Thumbs.db
