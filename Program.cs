@@ -3,7 +3,7 @@
 class Program {
     static void Main(string[] args) {
         Console.Clear();
-        Console.WriteLine("-- Bem-vindo ao jogo de RPG! --");  // Exibe uma mensagem inicial
+        Console.WriteLine("-- Bem-vindo ao jogo de RPG --");  // Exibe uma mensagem inicial
         Console.WriteLine("Você irá controlar personagens com habilidades especiais!\n");
 
         // Solicita os nomes dos jogadores, garantindo que não sejam nulos ou vazios
